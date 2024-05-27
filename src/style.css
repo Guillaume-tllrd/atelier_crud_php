@@ -1,0 +1,11 @@
+h1 {
+    border: 1px solid red;
+    text-align: center;
+}
+
+a:hover {
+    color: red;
+}
+table{
+    border: 1px solid black;
+}

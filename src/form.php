@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    
 </head>
 <body>
     <h1>Ajouter un utilisateur</h1>
@@ -17,7 +17,7 @@
         <button>Ajouter</button>
     </form>
     <a href="index.php">Retour</a>
-    <?php print_r($_POST);?> 
+    <!-- <?php print_r($_POST);?>  -->
     <!-- la variable superglobal _POST permet de récupérer la valeur du formulaire -->
 </body>
 </html>
